@@ -23,6 +23,8 @@ CHAVES_ATIVAS.set('ktz', 9999999999999);
 CHAVES_ATIVAS.set('KTZ-Kaploc1', 9999999999999);
 CHAVES_ATIVAS.set('KTZ-gsw', 9999999999999);
 CHAVES_ATIVAS.set('KTZ-moreira13', 9999999999999);
+CHAVES_ATIVAS.set('KTZ-Renan', 9999999999999);
+
 
 // Função para carregar as chaves salvas do arquivo ao iniciar
 async function carregarChavesDoArquivo() {
