@@ -1,0 +1,12 @@
+{
+  "name": "robuxcola-local",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "obfuscate": "node tools/obfuscate-custom-js.js"
+  },
+  "devDependencies": {
+    "javascript-obfuscator": "^5.4.3"
+  }
+}
